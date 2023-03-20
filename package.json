@@ -1,0 +1,18 @@
+{
+  "name": "rrrt-writeup",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.3",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "playwright-chromium": "^1.31.2",
+    "sass": "^1.59.3",
+    "slidev-theme-geist": "^0.8.1"
+  }
+}
