@@ -1,4 +1,5 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Welcome to my Final Presentation of my Observations with the Rapid Response Robotic Telescope
+### Brought to you with [Slidev](https://github.com/slidevjs/slidev)!
 
 To start the slide show:
 
@@ -6,6 +7,6 @@ To start the slide show:
 - `npm run dev`
 - visit http://localhost:3030
 
-Edit the [slides.md](./slides.md) to see the changes.
+## OR
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+- Click here to view the presentation on Github Pages [https://ethansteere.github.io/rrrt-writeup/](https://ethansteere.github.io/rrrt-writeup/)] 
