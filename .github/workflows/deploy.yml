@@ -44,5 +44,7 @@ jobs:
         with:
           # Upload entire repository
           path: dist/
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
