@@ -25,6 +25,7 @@ image: images/betelgeuse_hi_res.jpg
     <li class="py-1"><strong>🔍 Filter</strong> - Red</li>
     <li class="py-1"><strong>⏱️ Exposure Length</strong> - .25 seconds</li>
     <li class="py-1"><strong>➡️ Observation &amp; Analysis</strong> - Next Slide!</li>
+    <li class="py-1"><strong>➡️ <a href="https://en.wikipedia.org/wiki/Betelgeuse">Journal Source</a> - <a href="https://mantissocietystudycenter.blogspot.com/2017/06/amazing-new-views-of-betelgeuse.html">Image Source</a></strong></li>
   </ul>
 </div>
 
@@ -68,6 +69,7 @@ image: images/M51-hi_res.jpg
     <li class="py-1"><strong>🔍 Filter</strong> - GPrime</li>
     <li class="py-1"><strong>⏱️ Exposure Length</strong> - 120 seconds</li>
     <li class="py-1"><strong>➡️ Observation &amp; Analysis</strong> - Next Slide!</li>
+    <li class="py-1"><strong>➡️ <a href="https://en.wikipedia.org/wiki/Whirlpool_Galaxy">Journal Source</a> - <a href="http://www.almanac.com/blog/astronomy-blog/whirlpool-galaxy">Image Source</a></strong></li>
   </ul>
 </div>
 
@@ -111,6 +113,7 @@ image: images/m57_hi_res.jpeg
     <li class="py-1"><strong>🔍 Filter</strong> - GPrime</li>
     <li class="py-1"><strong>⏱️ Exposure Length</strong> - 120 seconds</li>
     <li class="py-1"><strong>➡️ Observation &amp; Analysis</strong> - Next Slide!</li>
+    <li class="py-1"><strong>➡️ <a href="https://en.wikipedia.org/wiki/Ring_Nebula">Journal Source</a> - <a href="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDaoSgEqNOrxeudcWTfv8jmt6dm5eMIqSFgFyNqdbQRAMBZHF8">Image Source</a></strong></li>
   </ul>
 </div>
 
@@ -154,6 +157,7 @@ image: images/M78_hi_res.jpg
     <li class="py-1"><strong>🔍 Filter</strong> - GPrime</li>
     <li class="py-1"><strong>⏱️ Exposure Length</strong> - 120 seconds</li>
     <li class="py-1"><strong>➡️ Observation &amp; Analysis</strong> - Next Slide!</li>
+    <li class="py-1"><strong>➡️ <a href="https://en.wikipedia.org/wiki/Messier_78">Journal Source</a> - <a href="https://www.bellmuseum.umn.edu/blog/minnesota-skies-feb-2021/">Image Source</a></strong></li>
   </ul>
 </div>
 
