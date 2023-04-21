@@ -26,7 +26,6 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -38,7 +37,8 @@ jobs:
       - name: Install Dependencies
         run: |
           npm install
-          npm run build
+          npm install -g @slidev-cli
+          slidev build --base RRRT-Writeup 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
